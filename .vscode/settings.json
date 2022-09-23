@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\sobrien\\Documents\\tools\\javafx-sdk-19\\lib\\*.jar"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.dependency.packagePresentation": "hierarchical"
+}
